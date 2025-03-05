@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c770a76-33e7-42d0-afe5-e79d97fc6c3a" name="Changes" comment="">
+    <list default="true" id="3c770a76-33e7-42d0-afe5-e79d97fc6c3a" name="Changes" comment="Examen Mariana">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S04_parciales/P01_1er_parcial/Examen 1_mariana.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +38,12 @@
     &quot;assignee&quot;: &quot;zairaval&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Fernando-JAL/Neurociencias-2025-2.git",
-    "accountId": "40e6a03c-004e-43c0-b36f-4b8641f1757b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fernando-JAL/Neurociencias-2025-2.git&quot;,
+    &quot;accountId&quot;: &quot;40e6a03c-004e-43c0-b36f-4b8641f1757b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,7 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "1er-Parcial__Mariana",
+    "git-widget-placeholder": "#2 on 1er-Parcial__Mariana",
     "last_opened_file_path": "/Users/ZvalEnes/Desktop/Neurociencias-2025-2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -67,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/S04_parciales/P01_1er_parcial" />
       <recent name="$PROJECT_DIR$/S02_clases/T01_ACP" />
     </key>
   </component>
@@ -89,9 +91,30 @@
       <workItem from="1740093573816" duration="5376000" />
       <workItem from="1740439647018" duration="2075000" />
     </task>
+    <task id="LOCAL-00001" summary="Examen Mariana">
+      <option name="closed" value="true" />
+      <created>1741180578666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741180578666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Examen Mariana">
+      <option name="closed" value="true" />
+      <created>1741180603052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741180603052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Examen Mariana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examen Mariana" />
   </component>
 </project>
